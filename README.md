@@ -1,13 +1,8 @@
 # Mac setup script
-Private
- Unwatch 1
- Star 0
- Fork 0
 
 My humble setup script
 
 ## Install
-
 
 Download the script:
 
