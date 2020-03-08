@@ -2,7 +2,7 @@
 
 My humble setup script:
 
-##Install
+## Install
 
 
 Download the script
@@ -24,7 +24,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-##Utils
+## Utils
 
 * [Zsh](https://github.com/ohmyzsh/ohmyzsh)
 * [rvm](https://rvm.io)
@@ -34,7 +34,7 @@ chmod +x install.sh
 * [nmap](https://github.com/nmap/nmap)
 * [tree](https://github.com/kddeisz/tree)
 
-##Alias
+## Alias
 
 `alias lt='ls -lGt'`
 
@@ -50,7 +50,7 @@ chmod +x install.sh
 
 `alias c="clear"`
 
-##Apps
+## Apps
 * [Postman](https://www.postman.com)
 * [Sourcetree](https://www.sourcetreeapp.com)
 * [Sublime-text](https://www.sublimetext.com)
@@ -73,12 +73,12 @@ chmod +x install.sh
 * [Sequel-pro](https://www.sequelpro.com)
 * [betterzip](https://macitbetter.com)
 
-##Plugins
+## Plugins
 
 * [quicklook-json](https://github.com/sindresorhus/quick-look-plugins)
 * [provisionql](https://github.com/ealeksandrov/ProvisionQL)
 
-##Other apps
+## Other apps
 * [Jdownloader](https://jdownloader.org)
 * [Virtualbox](https://www.virtualbox.org)
 * [Spotify](https://www.spotify.com)
@@ -86,7 +86,7 @@ chmod +x install.sh
 * [HandBrake](https://handbrake.fr)
 
 
-##References:
+## References:
 
 * [Laptop](https://github.com/thoughtbot/laptop)
 * [Dev-setup](https://github.com/donnemartin/dev-setup)
