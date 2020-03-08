@@ -8,13 +8,13 @@ My humble setup script:
 Download the script
 
 ```
-curl -sL https://raw.githubusercontent.com/tommypeps/XXXXXnameRepository/master/installScript.sh
+curl --remote-name https://github.com/tommypeps/macSetupScript/blob/master/install.sh
 ```
 
 Review the script:
 
 ```
-less installScript.sh
+less install.sh
 ```
 
 Install the script:
@@ -28,7 +28,7 @@ chmod +x install.sh
 
 * [Zsh](https://github.com/ohmyzsh/ohmyzsh)
 * [rvm](https://rvm.io)
-* [nvm]([https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm))
+* [nvm](https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 * [brew](https://brew.sh) 
 * [Z Script](https://github.com/rupa/z)
 * [nmap](https://github.com/nmap/nmap)
@@ -91,4 +91,3 @@ chmod +x install.sh
 * [Laptop](https://github.com/thoughtbot/laptop)
 * [Dev-setup](https://github.com/donnemartin/dev-setup)
 * [mac-setup-script](https://github.com/pathikrit/mac-setup-script)
-
