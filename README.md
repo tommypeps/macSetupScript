@@ -5,7 +5,7 @@ My humble setup script:
 ## Install
 
 
-Download the script
+Download the script:
 
 ```
 curl --remote-name https://github.com/tommypeps/macSetupScript/blob/master/install.sh
