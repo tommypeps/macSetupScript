@@ -28,7 +28,7 @@ chmod +x install.sh
 
 * [Zsh](https://github.com/ohmyzsh/ohmyzsh)
 * [rvm](https://rvm.io)
-* [nvm](https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+* [nvm](https://github.com/nvm-sh/nvm)
 * [brew](https://brew.sh) 
 * [Z Script](https://github.com/rupa/z)
 * [nmap](https://github.com/nmap/nmap)
