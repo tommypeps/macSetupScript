@@ -53,6 +53,7 @@ echo "Install plugins ..."
 brew cask install betterzip
 brew cask install quicklook-json
 brew cask install provisionql
+brew cask install qlvideo
 
 echo "Install other apps ..."
 brew cask install jdownloader
