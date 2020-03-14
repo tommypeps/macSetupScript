@@ -76,6 +76,7 @@ chmod +x install.sh
 
 * [quicklook-json](https://github.com/sindresorhus/quick-look-plugins)
 * [provisionql](https://github.com/ealeksandrov/ProvisionQL)
+* [qlvideo](https://github.com/Marginal/QLVideo)
 
 ## Other apps
 * [Jdownloader](https://jdownloader.org)
