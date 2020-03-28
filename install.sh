@@ -23,6 +23,7 @@ echo "Install utilitis ..."
 brew install nmap
 brew install tree
 brew install wget
+brew install npm
 brew cask install gswitch
 
 echo "Install apps software ..."
