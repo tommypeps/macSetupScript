@@ -29,6 +29,7 @@ chmod +x install.sh
 * [rvm](https://rvm.io)
 * [nvm](https://github.com/nvm-sh/nvm)
 * [brew](https://brew.sh) 
+* [npm](https://www.npmjs.com) 
 * [Z Script](https://github.com/rupa/z)
 * [nmap](https://github.com/nmap/nmap)
 * [tree](https://github.com/kddeisz/tree)
