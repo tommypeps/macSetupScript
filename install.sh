@@ -43,7 +43,6 @@ brew cask install keka
 brew cask install overkill
 brew cask install visual-studio-code
 brew cask install microsoft-teams
-brew cask install zoom
 brew cask install captain
 brew cask install dockers
 brew cask install macdown
