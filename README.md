@@ -66,7 +66,6 @@ chmod +x install.sh
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac)
 * [Visual-studio-code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
 * [Microsoft-teams](https://teams.microsoft.com/downloads)
-* [Zoom](https://zoom.us)
 * [Captain](https://github.com/jenssegers/captain)
 * [Dockers](https://www.docker.com)
 * [Macdown](https://macdown.uranusjr.com)
