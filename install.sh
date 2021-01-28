@@ -24,6 +24,7 @@ brew install nmap
 brew install tree
 brew install wget
 brew install npm
+npm install --global trash-cli
 brew cask install gswitch
 
 echo "Install apps software ..."
@@ -76,6 +77,7 @@ alias ip='curl ipecho.net/plain; echo'
 alias prettyJson='python -m json.tool'
 alias h='history'
 alias c='clear'
+alias rm='trash'
 " >> ~/.zshrc
 
 curl -o ~/scritps/z.sh --create-dirs https://raw.githubusercontent.com/rupa/z/master/z.sh | bash
