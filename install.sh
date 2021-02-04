@@ -49,6 +49,7 @@ brew cask install dockers
 brew cask install macdown
 brew cask install sequel-pro
 brew cask install robo-3t
+brew install --cask android-studio
 
 echo "Install plugins ..."
 brew cask install betterzip
