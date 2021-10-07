@@ -63,6 +63,7 @@ brew cask install virtualbox
 brew cask install spotify 
 brew cask install transmission
 brew cask install HandBrake
+brew install --cask monitorcontrol
 
 echo "Clean"
 brew cleanup
